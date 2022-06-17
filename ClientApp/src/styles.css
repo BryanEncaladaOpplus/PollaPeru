@@ -1,0 +1,18 @@
+/* You can add global styles to this file, and also import other style files */
+
+/* Provide sufficient contrast against white background */
+
+@import "estilos/css/bootstrap.css";
+@import "estilos/js/dl-menu/component.css";
+@import "estilos/css/slick.css";
+@import "estilos/css/slick-theme.css";
+@import "estilos/css/font-awesome.css";
+@import "estilos/css/svg-icons.css";
+@import "estilos/css/prettyphoto.css";
+@import "estilos/css/typography.css";
+@import "estilos/css/widget.css";
+@import "estilos/css/shortcodes.css";
+@import "estilos/css/style.css";
+@import "estilos/css/color.css";
+
+@import "estilos/css/responsive.css";
