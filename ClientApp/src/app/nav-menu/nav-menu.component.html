@@ -97,33 +97,49 @@
                 <div class="kode_navigation">
                     <!--Navigation Start-->
                     <ul class="nav">
+
+                        <li class="nav-item"
+                            [routerLinkActive]="['link-active']"
+                            [routerLinkActiveOptions]="{ exact: true }">
+                            <a class="nav-link text-dark" [routerLink]="['/']">Home</a>
+                        </li>
+
+               
+
+                        <li class="nav-item" [routerLinkActive]="['link-active']">
+                            <a class="nav-link text-dark" [routerLink]="['/comojugar']">Como Jugar</a>
+                        </li>
+                        <li class="nav-item" [routerLinkActive]="['link-active']">
+                            <a class="nav-link text-dark" [routerLink]="['/fetch-data']">Fetch data</a>
+                        </li>
+
                         <li>
-                            <a href="#">Home</a>
-                        <!--@Html.ActionLink("inicio", "Index", "home", routeValues: null, htmlAttributes: null)-->
+                            <a href="#">Homejj</a>
+                            <!--@Html.ActionLink("inicio", "Index", "home", routeValues: null, htmlAttributes: null)-->
                         </li>
 
 
                         <li>
-                           <!-- @Html.ActionLink("Como jugar", "ComoJugar", "Apuestas", routeValues: null, htmlAttributes: null)-->
+                            <!-- @Html.ActionLink("Como jugar", "ComoJugar", "Apuestas", routeValues: null, htmlAttributes: null)-->
 
                         </li>
 
 
                         <li>
-                           <!-- @Html.ActionLink("Apuestas", "Index", "Apuestas", routeValues: null, htmlAttributes: null)-->
+                            <!-- @Html.ActionLink("Apuestas", "Index", "Apuestas", routeValues: null, htmlAttributes: null)-->
 
                         </li>
 
 
 
                         <li>
-                           <!-- @Html.ActionLink("Administrar Invitaciones", "Aceptar_apuesta", "Apuestas", routeValues: null, htmlAttributes: null)-->
+                            <!-- @Html.ActionLink("Administrar Invitaciones", "Aceptar_apuesta", "Apuestas", routeValues: null, htmlAttributes: null)-->
 
                         </li>
 
 
                         <li>
-                           <!-- @Html.ActionLink("Reglas", "Reglas", "Apuestas", routeValues: null, htmlAttributes: null)-->
+                            <!-- @Html.ActionLink("Reglas", "Reglas", "Apuestas", routeValues: null, htmlAttributes: null)-->
 
                         </li>
 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4CIEoGa7k75FXsXNI37mFeB12ukLX1idPHYUwcj23inXKphSGWHER2tGpnE7CMN67o8adNq03+3vNW8A8ekzBQ==",
+  "dgSpecHash": "/2u8qoOVPsM+twgYQeTKHdox41UMn8FhENabfIWPpSTNT1w3RugsBoRA/8+eyWxVMliyBIlnF3keHYa4OSArfQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bryan\\source\\repos\\PollaPeruV2022\\PollaPeruV2022.csproj",
+  "projectFilePath": "C:\\Users\\bryan\\Documents\\GitHub\\PollaPeru\\PollaPeruV2022.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bryan\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\bryan\\.nuget\\packages\\identitymodel\\4.0.0\\identitymodel.4.0.0.nupkg.sha512",
