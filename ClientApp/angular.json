@@ -27,18 +27,18 @@
             ],
             "scripts": [
 
-              //"src/estilos/js/jquery.js",
-              //"src/estilos/js/bootstrap.js",
-              //"src/estilos/js/slick.min.js",
+              "src/estilos/js/jquery.js",
+              "src/estilos/js/bootstrap.js",
+              "src/estilos/js/slick.min.js",
 
-              //"src/estilos/js/downCount.js",
-              //"src/estilos/js/waypoints-min.js",
-              //"src/estilos/js/dl-menu/modernizr.custom.js",
+              "src/estilos/js/downCount.js",
+              "src/estilos/js/waypoints-min.js",
+              "src/estilos/js/dl-menu/modernizr.custom.js",
 
-              //"src/estilos/js/dl-menu/jquery.dlmenu.js",
-              //"src/estilos/js/jprogress.js",
-              //"src/estilos/js/jquery.prettyPhoto.js",
-              //"src/estilos/js/custom.js"
+              "src/estilos/js/dl-menu/jquery.dlmenu.js",
+              "src/estilos/js/jprogress.js",
+              "src/estilos/js/jquery.prettyPhoto.js",
+              "src/estilos/js/custom.js"
 
             ]
           },
