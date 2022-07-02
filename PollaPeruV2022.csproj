@@ -30,6 +30,22 @@
     <None Include="$(SpaRoot)**" Exclude="$(SpaRoot)node_modules\**" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Content Remove="ClientApp\src\assets\js\bootstrap.js" />
+    <Content Remove="ClientApp\src\assets\js\canvasjs.min.js" />
+    <Content Remove="ClientApp\src\assets\js\custom.js" />
+    <Content Remove="ClientApp\src\assets\js\dl-menu\component.css" />
+    <Content Remove="ClientApp\src\assets\js\dl-menu\jquery.dlmenu.js" />
+    <Content Remove="ClientApp\src\assets\js\dl-menu\modernizr.custom.js" />
+    <Content Remove="ClientApp\src\assets\js\downCount.js" />
+    <Content Remove="ClientApp\src\assets\js\jprogress.js" />
+    <Content Remove="ClientApp\src\assets\js\jquery.js" />
+    <Content Remove="ClientApp\src\assets\js\jquery.prettyPhoto.js" />
+    <Content Remove="ClientApp\src\assets\js\range-slider.js" />
+    <Content Remove="ClientApp\src\assets\js\slick.min.js" />
+    <Content Remove="ClientApp\src\assets\js\waypoints-min.js" />
+  </ItemGroup>
+
   <Target Name="DebugEnsureNodeEnv" BeforeTargets="Build" Condition=" '$(Configuration)' == 'Debug' And !Exists('$(SpaRoot)node_modules') ">
     <!-- Ensure Node.js is installed -->
     <Exec Command="node --version" ContinueOnError="true">
