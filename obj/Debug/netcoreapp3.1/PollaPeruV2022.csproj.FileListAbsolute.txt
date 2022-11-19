@@ -185,7 +185,6 @@ C:\Users\bryan\Documents\GitHub\PollaPeru\bin\Debug\netcoreapp3.1\runtimes\win-x
 C:\Users\bryan\Documents\GitHub\PollaPeru\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\bryan\Documents\GitHub\PollaPeru\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\bryan\Documents\GitHub\PollaPeru\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\bryan\Documents\GitHub\PollaPeru\obj\Debug\netcoreapp3.1\PollaPeruV2022.csproj.AssemblyReference.cache
 C:\Users\bryan\Documents\GitHub\PollaPeru\obj\Debug\netcoreapp3.1\PollaPeruV2022.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\bryan\Documents\GitHub\PollaPeru\obj\Debug\netcoreapp3.1\PollaPeruV2022.AssemblyInfoInputs.cache
 C:\Users\bryan\Documents\GitHub\PollaPeru\obj\Debug\netcoreapp3.1\PollaPeruV2022.AssemblyInfo.cs
